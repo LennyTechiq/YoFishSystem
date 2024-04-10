@@ -1,0 +1,15 @@
+10110,Male Crown Tail Betta Siamese Fighting Fish,1.95,10,7,24,28
+10111,Male Siamese Betta Fighting Fish,5.95,10,7,24,28
+10112,Half Moon Male Betta Siamese Fighting Fish,12.95,0,7,24,28
+10113,Male Dragon Plakat Betta,10,3,7,24,28
+10201,Blue Emperor Tetra,2.99,100,4,22,27
+10202,Congo Tetra,10,75,8,23,28
+10203,Diamond Neon Tetra,2.99,45,3.5,21,27
+10333,Tiger Barb,3.95,12,7,22,26
+10355,Red Line Torpedo Denison Barb,20,5,10,22,26
+10401,Turkish Green Zebra Angelfish,11.95,3,15,23,29
+20501,Red Bee Crystal Shrimp,5,12,3.5,26,29
+20510,Blue Pearl Shrimp,2.65,7,3.5,26,29
+20600,Vampire Crab,10.95,2,3,22,27
+20701,Nerite Snail,2.95,25,2.5,18,26
+30001,Aegagropila linnaei Moss Ball,3.25,200,10,17,27

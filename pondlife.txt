@@ -1,0 +1,5 @@
+01,Sarasa Goldfish,A single-tailed long-finned goldfish with distinctive white and red colouration on its body,30,4,30,6.95,100
+10,Shubunkin Goldfish,A single-tailed goldfish with nacreous scales and a pattern known as calico,45,4,30,9.95,24
+22,Blue Orfe,Hardy active fish that are best suited to large well-filtered pond,40,2,28,7,10
+11,Stickleback (3 Spine),A diminutive but aggressive predator that hunts tadpoles and small fish,4,4,20,1.25,500
+101,Rams-horn snails,Graze on algae by scraping rocks with a special tongue with embedded teeth called a radula,2,-5,25,1.99,200
